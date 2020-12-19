@@ -17,6 +17,11 @@ This application was created with:
 * Mongoose
 * MongoDB Atlas
 * IndexedDB
+* Chart.js
+* Bootstrap
+* HTML5
+* CSS
+
 
 ## Acknowledgements
 This project was completed with the guidance and support of my Bootcamp Instructor, TAs and the following resources:
